@@ -1,1 +1,1 @@
-# rssschool-cv
+https://MarySk-na.github.io/rsschool-cv/cv
