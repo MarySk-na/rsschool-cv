@@ -12,5 +12,10 @@
 ## Code example: 
 
 ```function sum(a, b) {
-		return a + b
+		return a + b ```
 }
+
+## Languages: 
+
+* English - A2
+* Deutsch - B1
